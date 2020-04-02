@@ -1,0 +1,25 @@
+{
+  "streams": [
+    {
+      "title": "my stream",
+      "description": "this is my first stream",
+      "id": 1
+    },
+    {
+      "title": "sad",
+      "description": "sadsadsadsadsadasd",
+      "id": 2
+    },
+    {
+      "title": "new stream",
+      "description": "this is brand new stream",
+      "id": 5
+    },
+    {
+      "title": "mu stream",
+      "description": "asdasdsad",
+      "userId": "109310932737610094139",
+      "id": 6
+    }
+  ]
+}
